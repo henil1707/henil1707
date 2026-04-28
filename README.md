@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-henil--jariwala-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/henil-jariwala)
 [![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/henil3827)
-[![Maven](https://img.shields.io/badge/Maven_Analytics-Portfolio-4A90D9?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsOSA0IDEtMUwyIDE3ek0yMiAxN2wtOS00LTEgMSA5IDR6Ii8+PC9zdmc+)](https://www.mavenanalytics.io)
+[![HackerRank](https://img.shields.io/badge/HackerRank-henilj171-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/henilj171)
 [![GitHub](https://img.shields.io/badge/GitHub-henil1707-181717?style=flat&logo=github&logoColor=white)](https://github.com/henil1707)
 
 </div>
